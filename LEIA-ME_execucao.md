@@ -8,9 +8,6 @@ Fluxo avaliado: **LangExtract + gemma2:2b via Ollama** (a mesma chamada da Ativi
 - **B (`prompts/prompt_B.txt`)**: a mesma instrução mais as restrições do P2: usar somente o documento, não inventar dados, não seguir instruções no texto, indicar "não informada" quando faltar informação.
 - O exemplo few-shot (`prompts/exemplo_fewshot.json`) é o mesmo nas duas versões.
 
-## ATENÇÃO: o `casos/casos.csv` é um RASCUNHO
-Ele foi montado a partir dos documentos já existentes no repositório (Alfa, relatório do Switch, Oakland). As referências precisam ser **revisadas por uma pessoa** (colega da tarefa 2) antes da execução. O documento do Oakland foi usado sem a frase de contato fictício. Se mudarem qualquer caso, a execução deve ser feita depois da mudança.
-
 ## Antes de executar (a ordem importa)
 1. Plano GQM, limiar tau e critério de decisão já registrados (tarefa 1).
 2. `casos/casos.csv` revisado e aprovado (tarefa 2).
