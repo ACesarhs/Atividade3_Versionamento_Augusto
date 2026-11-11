@@ -1,0 +1,2 @@
+Extraia do documento o trecho que responde à pergunta abaixo. Use a classe "resposta".
+Pergunta: {pergunta}

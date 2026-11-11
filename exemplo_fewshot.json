@@ -1,0 +1,10 @@
+{
+  "text": "O Laboratório Beta funciona de segunda a sexta, das 8h às 18h.",
+  "extractions": [
+    {
+      "extraction_class": "resposta",
+      "extraction_text": "de segunda a sexta, das 8h às 18h",
+      "attributes": {}
+    }
+  ]
+}
