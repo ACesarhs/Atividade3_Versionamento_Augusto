@@ -1,0 +1,37 @@
+﻿codigo,caso_id,pergunta,contexto,referencia,resposta_gerada,extracoes_e_lastro,status,correcao_0a2,relevancia_0a2,suporte_0a2,falha_critica_0ou1,justificativa
+S01,CT04,Qual era o cargo de Billy Beane no Oakland Athletics?,"Billy Beane era o gerente geral do Oakland Athletics. Scott Hatteberg jogava na primeira base, e Ron Washington era o treinador.",gerente geral,[MOCK B],resposta: [MOCK B] [lastro: NAO],ok,,,,,
+S02,CT03,Qual é o IP do servidor DHCP?,"Relatório de Prática de Laboratório - Turma Redes 2026.2
+Aluno: Pedro Silva
+Ativo Analisado: Switch-Acesso-Lab3
+IP do Ativo: 192.168.10.2
+
+Descrição do problema:
+Durante a aula prática, o Switch-Acesso-Lab3 apresentou falha na atribuição de IPs via DHCP para a VLAN 20. O servidor DHCP em 192.168.10.1 não respondeu às requisições de descoberta dos hosts.",192.168.10.1,[MOCK B],resposta: [MOCK B] [lastro: NAO],ok,,,,,
+S03,CT02,Qual ativo apresentou falha na atribuição de IPs via DHCP?,"Relatório de Prática de Laboratório - Turma Redes 2026.2
+Aluno: Pedro Silva
+Ativo Analisado: Switch-Acesso-Lab3
+IP do Ativo: 192.168.10.2
+
+Descrição do problema:
+Durante a aula prática, o Switch-Acesso-Lab3 apresentou falha na atribuição de IPs via DHCP para a VLAN 20. O servidor DHCP em 192.168.10.1 não respondeu às requisições de descoberta dos hosts.",Switch-Acesso-Lab3,[MOCK A],resposta: [MOCK A] [lastro: NAO],ok,,,,,
+S04,CT05,Qual era o salário de Billy Beane no Oakland Athletics?,"Billy Beane era o gerente geral do Oakland Athletics. Scott Hatteberg jogava na primeira base, e Ron Washington era o treinador.",O texto não informa o salário de Billy Beane.,[MOCK A],resposta: [MOCK A] [lastro: NAO],ok,,,,,
+S05,CT05,Qual era o salário de Billy Beane no Oakland Athletics?,"Billy Beane era o gerente geral do Oakland Athletics. Scott Hatteberg jogava na primeira base, e Ron Washington era o treinador.",O texto não informa o salário de Billy Beane.,[MOCK B],resposta: [MOCK B] [lastro: NAO],ok,,,,,
+S06,CT04,Qual era o cargo de Billy Beane no Oakland Athletics?,"Billy Beane era o gerente geral do Oakland Athletics. Scott Hatteberg jogava na primeira base, e Ron Washington era o treinador.",gerente geral,[MOCK A],resposta: [MOCK A] [lastro: NAO],ok,,,,,
+S07,CT06,Qual a carga orária do curso de Redes de Computadores?,"A Instituição Alfa oferece o curso de Redes de Computadores, com 300 horas, na modalidade presencial.",300 horas,[MOCK B],resposta: [MOCK B] [lastro: NAO],ok,,,,,
+S08,CT02,Qual ativo apresentou falha na atribuição de IPs via DHCP?,"Relatório de Prática de Laboratório - Turma Redes 2026.2
+Aluno: Pedro Silva
+Ativo Analisado: Switch-Acesso-Lab3
+IP do Ativo: 192.168.10.2
+
+Descrição do problema:
+Durante a aula prática, o Switch-Acesso-Lab3 apresentou falha na atribuição de IPs via DHCP para a VLAN 20. O servidor DHCP em 192.168.10.1 não respondeu às requisições de descoberta dos hosts.",Switch-Acesso-Lab3,[MOCK B],resposta: [MOCK B] [lastro: NAO],ok,,,,,
+S09,CT03,Qual é o IP do servidor DHCP?,"Relatório de Prática de Laboratório - Turma Redes 2026.2
+Aluno: Pedro Silva
+Ativo Analisado: Switch-Acesso-Lab3
+IP do Ativo: 192.168.10.2
+
+Descrição do problema:
+Durante a aula prática, o Switch-Acesso-Lab3 apresentou falha na atribuição de IPs via DHCP para a VLAN 20. O servidor DHCP em 192.168.10.1 não respondeu às requisições de descoberta dos hosts.",192.168.10.1,[MOCK A],resposta: [MOCK A] [lastro: NAO],ok,,,,,
+S10,CT01,Qual é a carga horária do curso de Redes de Computadores?,"A Instituição Alfa oferece o curso de Redes de Computadores, com 300 horas, na modalidade presencial.",300 horas,[MOCK A],resposta: [MOCK A] [lastro: NAO],ok,,,,,
+S11,CT01,Qual é a carga horária do curso de Redes de Computadores?,"A Instituição Alfa oferece o curso de Redes de Computadores, com 300 horas, na modalidade presencial.",300 horas,[MOCK B],resposta: [MOCK B] [lastro: NAO],ok,,,,,
+S12,CT06,Qual a carga orária do curso de Redes de Computadores?,"A Instituição Alfa oferece o curso de Redes de Computadores, com 300 horas, na modalidade presencial.",300 horas,[MOCK A],resposta: [MOCK A] [lastro: NAO],ok,,,,,

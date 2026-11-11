@@ -1,0 +1,13 @@
+﻿caso_id,versao,status,resposta_gerada,referencia
+CT01,A,ok,300 horas,300 horas
+CT01,B,ok,300 horas,300 horas
+CT02,A,descartada_pelo_parser,,Switch-Acesso-Lab3
+CT02,B,ok,Switch-Acesso-Lab3,Switch-Acesso-Lab3
+CT03,A,ok,192.168.10.1,192.168.10.1
+CT03,B,ok,192.168.10.1,192.168.10.1
+CT04,A,ok,Billy Beane era o gerente geral do Oakland Athletics.,gerente geral
+CT04,B,ok,Billy Beane era o gerente geral do Oakland Athletics,gerente geral
+CT05,A,ok,Billy Beane era o gerente geral do Oakland Athletics.,O texto não informa o salário de Billy Beane.
+CT05,B,ok,Não informada,O texto não informa o salário de Billy Beane.
+CT06,A,ok,300 horas,300 horas
+CT06,B,ok,300 horas,300 horas

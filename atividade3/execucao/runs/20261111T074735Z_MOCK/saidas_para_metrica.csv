@@ -1,0 +1,13 @@
+﻿caso_id,versao,status,resposta_gerada,referencia
+CT01,A,ok,[MOCK A],300 horas
+CT01,B,ok,[MOCK B],300 horas
+CT02,A,ok,[MOCK A],Switch-Acesso-Lab3
+CT02,B,ok,[MOCK B],Switch-Acesso-Lab3
+CT03,A,ok,[MOCK A],192.168.10.1
+CT03,B,ok,[MOCK B],192.168.10.1
+CT04,A,ok,[MOCK A],gerente geral
+CT04,B,ok,[MOCK B],gerente geral
+CT05,A,ok,[MOCK A],O texto não informa o salário de Billy Beane.
+CT05,B,ok,[MOCK B],O texto não informa o salário de Billy Beane.
+CT06,A,ok,[MOCK A],300 horas
+CT06,B,ok,[MOCK B],300 horas
