@@ -1,0 +1,33 @@
+﻿versao: "A"
+papel: "Baseline — prompt direto, sem restrições explícitas"
+data_execucao_utc: "2026-11-11T07:52:10Z"
+run_id: "20261111T075210Z"
+codigo:
+  repositorio: "https://github.com/Paulo607/QS_2026-2_LangExtract_Atividade3"
+  commit: "999eccd5266d26a8a70c094c73a35637ad6abbee"
+  arquivo_principal: "run_ab.py"
+  biblioteca_extracao: "langextract==1.7.2"
+modelo:
+  nome: "gemma2:2b"
+  digest: "8ccf136fdd5298f3ffe2d69862750ea7fb56555fa4d5b18c04e3fa4d82ee09d7"
+  backend: "Ollama"
+  temperatura: 0.0
+prompt:
+  arquivo: "versao_A/prompt_A.md"
+  resumo: "Prompt básico de extração. Solicita extração direta sem instruções de contenção de alucinação."
+  fator_alterado_em_relacao_a_B: "nenhum (é a referência)"
+casos_e_referencias:
+  arquivo: "casos_e_referencias/casos_CT01_CT06.md"
+  casos: ["CT01", "CT02", "CT03", "CT04", "CT05", "CT06"]
+rubrica_e_limiar:
+  rubrica: "correção, relevância, suporte (0–2 cada); aprovação = 2/2/2 e sem falha crítica"
+  limiar_automatico_tau: 0.60
+resultados:
+  saidas_brutas: "execucao/runs/20261111T075210Z/saidas_brutas.jsonl"
+  F1_medio: 0.5741
+  aprovacao_automatica: "3/6"
+  aprovacao_humana_R1: "4/6"
+  falhas_criticas_R1: "1/6 (CT05)"
+nao_congelavel:
+  - "Estado interno do modelo Ollama em runtime"
+  - "Latência (varia por máquina)"
